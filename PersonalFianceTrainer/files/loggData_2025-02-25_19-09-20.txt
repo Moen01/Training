@@ -1,0 +1,4 @@
+Mat: 34
+Transport: 555
+Underholdning: 667
+Annet: 889

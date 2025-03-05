@@ -1,0 +1,37 @@
+.button {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-background-color: rgba(32, 133, 241, 0.83); /* Bootstrap primary blue */
+    -fx-text-fill: white;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.button:hover {
+    -fx-background-color: #0056b3; /* Darker blue on hover */
+}
+
+.mat {
+    -fx-bar-fill: #ff6666; /* Red */
+}
+
+.transport {
+    -fx-bar-fill: #66b3ff; /* Blue */
+}
+
+.underholdning {
+    -fx-bar-fill: #99ff99; /* Green */
+}
+
+.annet {
+    -fx-bar-fill: #ffcc66; /* Yellow */
+}
+.root {
+    -fx-background-color: #ADD8E6; /* Light Blue */
+}
+
+.default-color0.chart-bar { -fx-bar-fill: #4CAF50; } /* Green */
+.default-color1.chart-bar { -fx-bar-fill: #2196F3; } /* Blue */
+.default-color2.chart-bar { -fx-bar-fill: #FF9800; } /* Orange */
+.default-color3.chart-bar { -fx-bar-fill: #db3a00; }/* RØØD */

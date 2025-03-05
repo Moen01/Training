@@ -1,0 +1,4 @@
+Mat: 23
+Transport: 24
+Underholdning: 25
+Annet: 26

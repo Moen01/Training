@@ -1,0 +1,4 @@
+Mat: 223.0
+Underholdning: 112.0
+Annet: 112.0
+Transport: 2424.0
